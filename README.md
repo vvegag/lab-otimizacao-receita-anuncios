@@ -61,3 +61,9 @@ Ou, se `pytest` estiver instalado:
 ```powershell
 pytest
 ```
+
+## Validação e demonstração
+
+Para um passo a passo completo de execução, geração dos dados sintéticos, validação local no Bash, validação com Streamlit e checagem final do fluxo, veja:
+
+- [`docs/validacao_e_demonstracao.md`](docs/validacao_e_demonstracao.md)
